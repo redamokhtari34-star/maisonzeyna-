@@ -1,0 +1,6 @@
+{
+  "name": "Maison Zeyna",
+  "description": "Application de gestion complète pour Maison Zeyna, boutique de location de robes et de bijoux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
